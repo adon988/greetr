@@ -1,0 +1,19 @@
+{
+    "name": "adamsimplexi/greetr",
+    "description": "A Simple Laravel Package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam OuYang",
+            "email": "adamouyang@test.test"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+      "psr-4": {
+            "Adamsimplexi\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
